@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-last-modified-at
 
 author:
   name   : "Tsuheng (Henry) Hsu"
@@ -82,6 +83,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_last_modified_at: true
   # _pages
   - scope:
       path: "_pages"
