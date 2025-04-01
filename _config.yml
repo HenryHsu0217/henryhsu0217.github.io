@@ -92,10 +92,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-header:
-  nav:
-    - title: "Publications"
-      url: "/publications/"
 
 category_archive:
   type: liquid
