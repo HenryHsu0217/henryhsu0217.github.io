@@ -1,8 +1,8 @@
 ---
 title: "Just a starting post"
-last_modified_at: 2025-04-01T16:20:02-05:00
+last_modified_at: 2025-04-01
 categories:
-  - Post
+  - News
 tags:
   - Post Formats
   - readability
