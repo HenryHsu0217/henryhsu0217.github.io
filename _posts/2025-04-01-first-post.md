@@ -1,5 +1,6 @@
 ---
 title: "Just a starting post"
+date: 2024-04-01
 last_modified_at: 2025-04-01
 categories:
   - News
