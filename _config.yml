@@ -99,6 +99,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-category_archive:
+pblications:
   type: liquid
   path: /publications/
