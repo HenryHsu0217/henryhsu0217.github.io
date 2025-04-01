@@ -1,10 +1,8 @@
 ---
 permalink: /cv/
-title: "CV"
 ---
 
 ## Education 
-
 #### Aalto University, Espoo, Finland
 - M.Sc. in Signal Processing and Data Science - Present
 - Minor: Machine Learning, Data Science and Artificial Intelligence
@@ -15,7 +13,6 @@ title: "CV"
 #### National University of Singapore, Singapore
 * Exchange Student
 ## Experience
-
 #### Aalto Intelligent Robotic Group, Finland (Summer Intern, Starting Jun 2025)
 * Will be working on topic related to optimization of open-ended queries in actively learning from human feedback by utilizing cognitive models of the human teacher.
 
