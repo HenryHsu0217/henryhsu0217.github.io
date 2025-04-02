@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A master's student documenting topics in Machine Learning and Generative AI — sharing notes, ideas, and progress towards future research.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
