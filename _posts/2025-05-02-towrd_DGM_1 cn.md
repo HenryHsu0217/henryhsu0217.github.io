@@ -4,6 +4,8 @@ date: 2025-05-02
 last_modified_at: 2025-05-02
 categories:
   - Post
+  - Chinese
+  - 中文
 tags:
   - Generative Model
   - Machine Leanring
