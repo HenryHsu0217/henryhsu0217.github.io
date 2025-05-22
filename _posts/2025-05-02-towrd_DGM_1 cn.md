@@ -8,7 +8,7 @@ categories:
   - 中文
 tags:
   - Generative Model
-  - Machine Leanring
+  - Machine Learning
 math: true
 ---
 > 📌 *備註：* 這是一系列個人學習筆記，撰寫目的是幫助我自己釐清並解釋深度生成模型（Deep Generative Models）相關主題（也希望對正在閱讀的你有所幫助）。這些內容反映我個人的理解與思考，並非正式教學指南或權威參考資料。並且這是由Chat-GPT直接從我寫的英文版翻譯過來的，至於為什麼，因爲我懶得再重寫一遍而且我中打慢的有剩。
