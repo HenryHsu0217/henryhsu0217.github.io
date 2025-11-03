@@ -10,6 +10,6 @@ title: "Publications"
 LAMO, this dude doesn't even have any reseach output but still have delusion of pursuing a PhD 👈🤣
 
 ## Research Projects
-### [Balancing Query Informativeness and Human Rationality in Reinforcement Learning from Human Feedback](/assets/files/TBD2026.pdf)
+### [Balancing Query Informativeness and Human Rationality in Reinforcement Learning from Human Feedback](/assets/PDF/TBD2026.pdf)
 **Tsuheng Hsu**  
 _Intelligent Robotics Lab, Aalto University, 2025_  
