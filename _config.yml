@@ -30,7 +30,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+url: "https://henryhsu0217.github.io"
 include:
   - _pages
 
@@ -80,6 +80,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tsu-heng-hsu-43b272203/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=17DY02gAAAAJ&hl=zh-TW"
 
 
 defaults:
