@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Tsuheng (Henry) Hsu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "An overambitious master's student trying to document things I've learned and found interesting, hoping to pursue a PhD in the future. (Photo by [@supermini_burger](https://www.instagram.com/supermini_burger/))"
+  bio    : "I am a Master’s student in Machine Learning and Data Science at Aalto University, with interests in both research and real-world applications. My work focuses on generative models, computer vision, general machine learning, with an emphasis on bridging theoretical advances and practical AI systems. (Photo by [@supermini_burger](https://www.instagram.com/supermini_burger/))"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
