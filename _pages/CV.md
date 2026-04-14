@@ -19,8 +19,17 @@ title: "Curriculum Vitae"
 
 ## Experience
 
+### Satoh Lab, Tokyo Japan
+**Research Intern** — *Mar,2026–July,2026*
+- Working on representation learning for videos.
+
+### Aalto Vision, Finland
+**Research Assistant** — *Nov,2025–Mar,2026*
+- Worked on my thesis in utilizing global object-centric representation for 3D scene object-centric learning.
+- My thesis work has been accepted to CVPR 2026 3DMV workshop.
+
 ### Aalto Intelligent Robotics Group, Finland
-**Summer Intern** — *Starting Jun 2025*
+**Summer Intern** — *June–Aug 2025*
 - Will work on optimization of open-ended queries in active learning from human feedback by utilizing cognitive models of human teachers.
 
 ### Aalto University DICE, Finland

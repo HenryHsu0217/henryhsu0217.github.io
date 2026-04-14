@@ -3,5 +3,6 @@ permalink: /about/
 title: "About Me"
 ---
 
-I am a master’s student in Data Science with interests in Machine Learning, Computer Vision, Deep Generative Models, and Robotics Learning. My work focuses on understanding how AI systems can learn meaningful representations of the real world and how these representations can be used for practical applications such as data generation, simulation, and decision-making. I am particularly interested in developing AI systems that are not only powerful, but also interpretable, reliable, and applicable in real-world settings.
+I am a master’s student in Data Science with interests in Machine Learning, Computer Vision, Deep Generative Models working toward a PhD. My work focuses on enabling AI to learning meaningful representation in a perceptible and reasonable way as human does, and build robust, generalizable and interpretable application on top of it.
+
 

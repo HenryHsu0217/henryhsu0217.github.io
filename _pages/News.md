@@ -4,9 +4,13 @@ title: "News"
 ---
 
 ## News
-[Now] 🔬 Research Assistant at Aalto Vision, working on Unsupervised Object-Centric Learning in 3D Gaussian Splatting.
+[Mar. 2026] My thesis work has been accepted to CVPR 2026 3DMV workshop!
+
+[Mar. 2026] Started my intern at [National Institute of Informatics](https://www.nii.ac.jp/en/), Tokyo, Japan. 
 
 [Jan. 2026] 🇯🇵 Incoming Research Intern at [National Institute of Informatics](https://www.nii.ac.jp/en/), Japan.  
+
+[Nov. 2025] 🔬 Research Assistant at Aalto Vision, working on Unsupervised Object-Centric Learning in 3D Gaussian Splatting as my thesis.
 
 [Jun. 2025] 🤖 Interning at [Intelligent Robotics Group, Aalto](https://irobotics.aalto.fi/), working on Bayesian Experimental Design with RLHF.  
 
